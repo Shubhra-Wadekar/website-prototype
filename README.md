@@ -1,1 +1,1 @@
-This is one of the projects created by me durinng learning html and css.
+This is one of the projects created by me during learning html and css.
